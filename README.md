@@ -17,4 +17,6 @@ The repository is structured as follows:
 
 - **Prolog:** A logic programming language associated with artificial intelligence and computational linguistics. Prolog's strength in pattern matching and its declarative nature make it well-suited for problems in these domains.
 
-The repository provides a comprehensive look at the different programming paradigms and techniques utilized in both Racket and Prolog, providing valuable insights into the diverse world of programming languages.
+The repository provides a comprehensive look at the different programming paradigms and techniques utilized in both Racket and Prolog, providing valuable insights into the diverse world of programming languages.  
+
+http://cs.oswego.edu/~skappele/CSC344WorkSite/#
